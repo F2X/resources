@@ -1,0 +1,327 @@
+[
+    {
+      "description": "Afrikaans",
+      "value": "af_ZA",
+      "rfc5646": "af-ZA"
+    },
+    {
+      "description": "العربية",
+      "value": "ar",
+      "rfc5646": "ar"
+    },
+    {
+      "description": "Azərbaycanca",
+      "value": "az_AZ",
+      "rfc5646": "az-AZ"
+    },
+    {
+      "description": "Беларуская",
+      "value": "be_BY",
+      "rfc5646": "be-BY"
+    },
+    {
+      "description": "Български",
+      "value": "bg_BG",
+      "rfc5646": "bg-BG"
+    },
+    {
+      "description": "Català",
+      "value": "ca_ES",
+      "rfc5646": "ca-ES"
+    },
+    {
+      "description": "Čeština",
+      "value": "cs_CZ",
+      "rfc5646": "cs-CZ"
+    },
+    {
+      "description": "Dansk",
+      "value": "da_DK",
+      "rfc5646": "da-DK"
+    },
+    {
+      "description": "Deutsch (Österreich)",
+      "value": "de_AT",
+      "rfc5646": "de-AT"
+    },
+    {
+      "description": "Deutsch",
+      "value": "de_DE",
+      "rfc5646": "de-DE"
+    },
+    {
+      "description": "English (Canada)",
+      "value": "en_CA",
+      "rfc5646": "en-CA"
+    },
+    {
+      "description": "English (United Kingdom)",
+      "value": "en_GB",
+      "rfc5646": "en-GB"
+    },
+    {
+      "description": "English (United States)",
+      "value": "en_US",
+      "rfc5646": "en-US"
+    },
+    {
+      "description": "English (South Africa)",
+      "value": "en_ZA",
+      "rfc5646": "en-ZA"
+    },
+    {
+      "description": "Español (España)",
+      "value": "es_ES",
+      "rfc5646": "es-ES"
+    },
+    {
+      "description": "Español (México)",
+      "value": "es_MX",
+      "rfc5646": "es-MX"
+    },
+    {
+      "description": "Eesti",
+      "value": "et_EE",
+      "rfc5646": "et-EE"
+    },
+    {
+      "description": "Euskara",
+      "value": "eu_ES",
+      "rfc5646": "eu-ES"
+    },
+    {
+      "description": "فارسی",
+      "value": "fa_IR",
+      "rfc5646": "fa-IR"
+    },
+    {
+      "description": "Suomi",
+      "value": "fi_FI",
+      "rfc5646": "fi-FI"
+    },
+    {
+      "description": "Français (Canada)",
+      "value": "fr_CA",
+      "rfc5646": "fr-CA"
+    },
+    {
+      "description": "Français (France)",
+      "value": "fr_FR",
+      "rfc5646": "fr-FR"
+    },
+    {
+      "description": "Ελληνικά",
+      "value": "el_GR",
+      "rfc5646": "el-GR"
+    },
+    {
+      "description": "Gaeilge",
+      "value": "ga_IE",
+      "rfc5646": "ga-IE"
+    },
+    {
+      "description": "Galego",
+      "value": "gl_ES",
+      "rfc5646": "gl-ES"
+    },
+    {
+      "description": "עברית",
+      "value": "he_IL",
+      "rfc5646": "he-IL"
+    },
+    {
+      "description": "हिन्दी",
+      "value": "hi_IN",
+      "rfc5646": "hi-IN"
+    },
+    {
+      "description": "Hrvatski",
+      "value": "hr_HR",
+      "rfc5646": "hr-HR"
+    },
+    {
+      "description": "Magyar",
+      "value": "hu_HU",
+      "rfc5646": "hu-HU"
+    },
+    {
+      "description": "Հայերեն",
+      "value": "hy_AM",
+      "rfc5646": "hy-AM"
+    },
+    {
+      "description": "Bahasa Indonesia",
+      "value": "id_ID",
+      "rfc5646": "id-ID"
+    },
+    {
+      "description": "Íslenska",
+      "value": "is_IS",
+      "rfc5646": "is-IS"
+    },
+    {
+      "description": "Italiano",
+      "value": "it_IT",
+      "rfc5646": "it-IT"
+    },
+    {
+      "description": "日本語",
+      "value": "ja_JP",
+      "rfc5646": "ja-JP"
+    },
+    {
+      "description": "ქართული",
+      "value": "ka_GE",
+      "rfc5646": "ka-GE"
+    },
+    {
+      "description": "Қазақша",
+      "value": "kk_KZ",
+      "rfc5646": "kk-KZ"
+    },
+    {
+      "description": "한국어",
+      "value": "ko_KR",
+      "rfc5646": "ko-KR"
+    },
+    {
+      "description": "Lietuvių",
+      "value": "lt_LT",
+      "rfc5646": "lt-LT"
+    },
+    {
+      "description": "Latviešu",
+      "value": "lv_LV",
+      "rfc5646": "lv-LV"
+    },
+    {
+      "description": "Македонски",
+      "value": "mk_MK",
+      "rfc5646": "mk-MK"
+    },
+    {
+      "description": "Монгол",
+      "value": "mn_MN",
+      "rfc5646": "mn-MN"
+    },
+    {
+      "description": "Bahasa Melayu (Malaysia)",
+      "value": "ms_MY",
+      "rfc5646": "ms-MY"
+    },
+    {
+      "description": "Nederlands (België)",
+      "value": "nl_BE",
+      "rfc5646": "nl-BE"
+    },
+    {
+      "description": "Nederlands",
+      "value": "nl_NL",
+      "rfc5646": "nl-NL"
+    },
+    {
+      "description": "Norsk (Bokmål)",
+      "value": "no_NO",
+      "rfc5646": "no-NO"
+    },
+    {
+      "description": "Polski",
+      "value": "pl_PL",
+      "rfc5646": "pl-PL"
+    },
+    {
+      "description": "Português (Brasil)",
+      "value": "pt_BR",
+      "rfc5646": "pt-BR"
+    },
+    {
+      "description": "Português (Portugal)",
+      "value": "pt_PT",
+      "rfc5646": "pt-PT"
+    },
+    {
+      "description": "Română",
+      "value": "ro_RO",
+      "rfc5646": "ro-RO"
+    },
+    {
+      "description": "Русский",
+      "value": "ru_RU",
+      "rfc5646": "ru-RU"
+    },
+    {
+      "description": "Slovenčina",
+      "value": "sk_SK",
+      "rfc5646": "sk-SK"
+    },
+    {
+      "description": "Slovenščina",
+      "value": "sl_SI",
+      "rfc5646": "sl-SI"
+    },
+    {
+      "description": "Shqip",
+      "value": "sq_AL",
+      "rfc5646": "sq-AL"
+    },
+    {
+      "description": "Српски",
+      "value": "sr_Cyrl_RS",
+      "rfc5646": "sr-Cyrl-RS"
+    },
+    {
+      "description": "Srpski",
+      "value": "sr_Latn_RS",
+      "rfc5646": "sr-Latn-RS"
+    },
+    {
+      "description": "Svenska",
+      "value": "sv_SE",
+      "rfc5646": "sv-SE"
+    },
+    {
+      "description": "ไทย",
+      "value": "th_TH",
+      "rfc5646": "th-TH"
+    },
+    {
+      "description": "Türkçe",
+      "value": "tr_TR",
+      "rfc5646": "tr-TR"
+    },
+    {
+      "description": "Татарча",
+      "value": "tt_RU",
+      "rfc5646": "tt-RU"
+    },
+    {
+      "description": "Українська",
+      "value": "uk_UA",
+      "rfc5646": "uk-UA"
+    },
+    {
+      "description": "اردو",
+      "value": "ur_PK",
+      "rfc5646": "ur-PK"
+    },
+    {
+      "description": "Tiếng Việt",
+      "value": "vi_VN",
+      "rfc5646": "vi-VN"
+    },
+    {
+      "description": "中文 (中国)",
+      "value": "zh_CN",
+      "rfc5646": "zh-CN"
+    },
+    {
+      "description": "中文 (香港)",
+      "value": "zh_HK",
+      "rfc5646": "zh-HK"
+    },
+    {
+      "description": "中文 (台灣)",
+      "value": "zh_TW",
+      "rfc5646": "zh-TW"
+    }
+  ]
