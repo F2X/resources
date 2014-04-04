@@ -1,0 +1,1354 @@
+[
+  {
+    "code":"Afak",
+    "numeric":439,
+    "en":"Afaka",
+    "fr":"Afaka",
+    "pva":"",
+    "date":"2010-12-21"
+  },
+  {
+    "code":"Aghb",
+    "numeric":239,
+    "en":"Caucasian Albanian",
+    "fr":"Aghbanien",
+    "pva":"",
+    "date":"2012-10-16"
+  },
+  {
+    "code":"Ahom",
+    "numeric":338,
+    "en":"Ahom, Tai Ahom",
+    "fr":"Âhom",
+    "pva":"",
+    "date":"2012-11-01"
+  },
+  {
+    "code":"Arab",
+    "numeric":160,
+    "en":"Arabic",
+    "fr":"Arabe",
+    "pva":"Arabic",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Armi",
+    "numeric":124,
+    "en":"Imperial Aramaic",
+    "fr":"Araméen impérial",
+    "pva":"Imperial_Aramaic",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Armn",
+    "numeric":230,
+    "en":"Armenian",
+    "fr":"Arménien",
+    "pva":"Armenian",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Avst",
+    "numeric":134,
+    "en":"Avestan",
+    "fr":"Avestique",
+    "pva":"Avestan",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Bali",
+    "numeric":360,
+    "en":"Balinese",
+    "fr":"Balinais",
+    "pva":"Balinese",
+    "date":"2006-10-10"
+  },
+  {
+    "code":"Bamu",
+    "numeric":435,
+    "en":"Bamum",
+    "fr":"Bamoum",
+    "pva":"Bamum",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Bass",
+    "numeric":259,
+    "en":"Bassa Vah",
+    "fr":"Bassa",
+    "pva":"",
+    "date":"2010-03-26"
+  },
+  {
+    "code":"Batk",
+    "numeric":365,
+    "en":"Batak",
+    "fr":"Batik",
+    "pva":"Batak",
+    "date":"2010-07-23"
+  },
+  {
+    "code":"Beng",
+    "numeric":325,
+    "en":"Bengali",
+    "fr":"Bengalî",
+    "pva":"Bengali",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Blis",
+    "numeric":550,
+    "en":"Blissymbols",
+    "fr":"Symboles Bliss",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Bopo",
+    "numeric":285,
+    "en":"Bopomofo",
+    "fr":"Bopomofo",
+    "pva":"Bopomofo",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Brah",
+    "numeric":300,
+    "en":"Brahmi",
+    "fr":"Brahma",
+    "pva":"Brahmi",
+    "date":"2010-07-23"
+  },
+  {
+    "code":"Brai",
+    "numeric":570,
+    "en":"Braille",
+    "fr":"Braille",
+    "pva":"Braille",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Bugi",
+    "numeric":367,
+    "en":"Buginese",
+    "fr":"Bouguis",
+    "pva":"Buginese",
+    "date":"2006-06-21"
+  },
+  {
+    "code":"Buhd",
+    "numeric":372,
+    "en":"Buhid",
+    "fr":"Bouhide",
+    "pva":"Buhid",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Cakm",
+    "numeric":349,
+    "en":"Chakma",
+    "fr":"Chakma",
+    "pva":"Chakma",
+    "date":"2012-02-06"
+  },
+  {
+    "code":"Cans",
+    "numeric":440,
+    "en":"Unified Canadian Aboriginal Syllabics",
+    "fr":"Syllabaire autochtone canadien unifié",
+    "pva":"Canadian_Aboriginal",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Cari",
+    "numeric":201,
+    "en":"Carian",
+    "fr":"Carien",
+    "pva":"Carian",
+    "date":"2007-07-02"
+  },
+  {
+    "code":"Cham",
+    "numeric":358,
+    "en":"Cham",
+    "fr":"Cham (čam, tcham)",
+    "pva":"Cham",
+    "date":"2009-11-11"
+  },
+  {
+    "code":"Cher",
+    "numeric":445,
+    "en":"Cherokee",
+    "fr":"Tchérokî",
+    "pva":"Cherokee",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Cirt",
+    "numeric":291,
+    "en":"Cirth",
+    "fr":"Cirth",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Copt",
+    "numeric":204,
+    "en":"Coptic",
+    "fr":"Copte",
+    "pva":"Coptic",
+    "date":"2006-06-21"
+  },
+  {
+    "code":"Cprt",
+    "numeric":403,
+    "en":"Cypriot",
+    "fr":"Syllabaire chypriote",
+    "pva":"Cypriot",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Cyrl",
+    "numeric":220,
+    "en":"Cyrillic",
+    "fr":"Cyrillique",
+    "pva":"Cyrillic",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Cyrs",
+    "numeric":221,
+    "en":"Cyrillic (Old Church Slavonic variant)",
+    "fr":"Cyrillique (variante slavonne)",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Deva",
+    "numeric":315,
+    "en":"Devanagari (Nagari)",
+    "fr":"Dévanâgarî",
+    "pva":"Devanagari",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Dsrt",
+    "numeric":250,
+    "en":"Deseret (Mormon)",
+    "fr":"Déseret (mormon)",
+    "pva":"Deseret",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Dupl",
+    "numeric":755,
+    "en":"Duployan shorthand, Duployan stenography",
+    "fr":"Sténographie Duployé",
+    "pva":"",
+    "date":"2010-07-18"
+  },
+  {
+    "code":"Egyd",
+    "numeric":070,
+    "en":"Egyptian demotic",
+    "fr":"Démotique égyptien",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Egyh",
+    "numeric":060,
+    "en":"Egyptian hieratic",
+    "fr":"Hiératique égyptien",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Egyp",
+    "numeric":050,
+    "en":"Egyptian hieroglyphs",
+    "fr":"Hiéroglyphes égyptiens",
+    "pva":"Egyptian_Hieroglyphs",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Elba",
+    "numeric":226,
+    "en":"Elbasan",
+    "fr":"Elbasan",
+    "pva":"",
+    "date":"2010-07-18"
+  },
+  {
+    "code":"Ethi",
+    "numeric":430,
+    "en":"Ethiopic (Geʻez)",
+    "fr":"Éthiopien (geʻez, guèze)",
+    "pva":"Ethiopic",
+    "date":"2004-10-25"
+  },
+  {
+    "code":"Geok",
+    "numeric":241,
+    "en":"Khutsuri (Asomtavruli and Nuskhuri)",
+    "fr":"Khoutsouri (assomtavrouli et nouskhouri)",
+    "pva":"Georgian",
+    "date":"2012-10-16"
+  },
+  {
+    "code":"Geor",
+    "numeric":240,
+    "en":"Georgian (Mkhedruli)",
+    "fr":"Géorgien (mkhédrouli)",
+    "pva":"Georgian",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Glag",
+    "numeric":225,
+    "en":"Glagolitic",
+    "fr":"Glagolitique",
+    "pva":"Glagolitic",
+    "date":"2006-06-21"
+  },
+  {
+    "code":"Goth",
+    "numeric":206,
+    "en":"Gothic",
+    "fr":"Gotique",
+    "pva":"Gothic",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Gran",
+    "numeric":343,
+    "en":"Grantha",
+    "fr":"Grantha",
+    "pva":"",
+    "date":"2009-11-11"
+  },
+  {
+    "code":"Grek",
+    "numeric":200,
+    "en":"Greek",
+    "fr":"Grec",
+    "pva":"Greek",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Gujr",
+    "numeric":320,
+    "en":"Gujarati",
+    "fr":"Goudjarâtî (gujrâtî)",
+    "pva":"Gujarati",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Guru",
+    "numeric":310,
+    "en":"Gurmukhi",
+    "fr":"Gourmoukhî",
+    "pva":"Gurmukhi",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Hang",
+    "numeric":286,
+    "en":"Hangul (Hangŭl, Hangeul)",
+    "fr":"Hangûl (hangŭl, hangeul)",
+    "pva":"Hangul",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Hani",
+    "numeric":500,
+    "en":"Han (Hanzi, Kanji, Hanja)",
+    "fr":"Idéogrammes han (sinogrammes)",
+    "pva":"Han",
+    "date":"2009-02-23"
+  },
+  {
+    "code":"Hano",
+    "numeric":371,
+    "en":"Hanunoo (Hanunóo)",
+    "fr":"Hanounóo",
+    "pva":"Hanunoo",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Hans",
+    "numeric":501,
+    "en":"Han (Simplified variant)",
+    "fr":"Idéogrammes han (variante simplifiée)",
+    "pva":"",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Hant",
+    "numeric":502,
+    "en":"Han (Traditional variant)",
+    "fr":"Idéogrammes han (variante traditionnelle)",
+    "pva":"",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Hatr",
+    "numeric":127,
+    "en":"Hatran",
+    "fr":"Hatrénien",
+    "pva":"",
+    "date":"2012-11-01"
+  },
+  {
+    "code":"Hebr",
+    "numeric":125,
+    "en":"Hebrew",
+    "fr":"Hébreu",
+    "pva":"Hebrew",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Hira",
+    "numeric":410,
+    "en":"Hiragana",
+    "fr":"Hiragana",
+    "pva":"Hiragana",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Hluw",
+    "numeric":080,
+    "en":"Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)",
+    "fr":"Hiéroglyphes anatoliens (hiéroglyphes louvites, hiéroglyphes hittites)",
+    "pva":"",
+    "date":"2011-12-09"
+  },
+  {
+    "code":"Hmng",
+    "numeric":450,
+    "en":"Pahawh Hmong",
+    "fr":"Pahawh hmong",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Hrkt",
+    "numeric":412,
+    "en":"Japanese syllabaries (alias for Hiragana + Katakana)",
+    "fr":"Syllabaires japonais (alias pour hiragana + katakana)",
+    "pva":"Katakana_Or_Hiragana",
+    "date":"2011-06-21"
+  },
+  {
+    "code":"Hung",
+    "numeric":176,
+    "en":"Old Hungarian (Hungarian Runic)",
+    "fr":"Runes hongroises (ancien hongrois)",
+    "pva":"",
+    "date":"2012-10-16"
+  },
+  {
+    "code":"Inds",
+    "numeric":610,
+    "en":"Indus (Harappan)",
+    "fr":"Indus",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Ital",
+    "numeric":210,
+    "en":"Old Italic (Etruscan, Oscan, etc.)",
+    "fr":"Ancien italique (étrusque, osque, etc.)",
+    "pva":"Old_Italic",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Java",
+    "numeric":361,
+    "en":"Javanese",
+    "fr":"Javanais",
+    "pva":"Javanese",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Jpan",
+    "numeric":413,
+    "en":"Japanese (alias for Han + Hiragana + Katakana)",
+    "fr":"Japonais (alias pour han + hiragana + katakana)",
+    "pva":"",
+    "date":"2006-06-21"
+  },
+  {
+    "code":"Jurc",
+    "numeric":510,
+    "en":"Jurchen",
+    "fr":"Jurchen",
+    "pva":"",
+    "date":"2010-12-21"
+  },
+  {
+    "code":"Kali",
+    "numeric":357,
+    "en":"Kayah Li",
+    "fr":"Kayah li",
+    "pva":"Kayah_Li",
+    "date":"2007-07-02"
+  },
+  {
+    "code":"Kana",
+    "numeric":411,
+    "en":"Katakana",
+    "fr":"Katakana",
+    "pva":"Katakana",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Khar",
+    "numeric":305,
+    "en":"Kharoshthi",
+    "fr":"Kharochthî",
+    "pva":"Kharoshthi",
+    "date":"2006-06-21"
+  },
+  {
+    "code":"Khmr",
+    "numeric":355,
+    "en":"Khmer",
+    "fr":"Khmer",
+    "pva":"Khmer",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Khoj",
+    "numeric":322,
+    "en":"Khojki",
+    "fr":"Khojkî",
+    "pva":"",
+    "date":"2011-06-21"
+  },
+  {
+    "code":"Knda",
+    "numeric":345,
+    "en":"Kannada",
+    "fr":"Kannara (canara)",
+    "pva":"Kannada",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Kore",
+    "numeric":287,
+    "en":"Korean (alias for Hangul + Han)",
+    "fr":"Coréen (alias pour hangûl + han)",
+    "pva":"",
+    "date":"2007-06-13"
+  },
+  {
+    "code":"Kpel",
+    "numeric":436,
+    "en":"Kpelle",
+    "fr":"Kpèllé",
+    "pva":"",
+    "date":"2010-03-26"
+  },
+  {
+    "code":"Kthi",
+    "numeric":317,
+    "en":"Kaithi",
+    "fr":"Kaithî",
+    "pva":"Kaithi",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Lana",
+    "numeric":351,
+    "en":"Tai Tham (Lanna)",
+    "fr":"Taï tham (lanna)",
+    "pva":"Tai_Tham",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Laoo",
+    "numeric":356,
+    "en":"Lao",
+    "fr":"Laotien",
+    "pva":"Lao",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Latf",
+    "numeric":217,
+    "en":"Latin (Fraktur variant)",
+    "fr":"Latin (variante brisée)",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Latg",
+    "numeric":216,
+    "en":"Latin (Gaelic variant)",
+    "fr":"Latin (variante gaélique)",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Latn",
+    "numeric":215,
+    "en":"Latin",
+    "fr":"Latin",
+    "pva":"Latin",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Lepc",
+    "numeric":335,
+    "en":"Lepcha (Róng)",
+    "fr":"Lepcha (róng)",
+    "pva":"Lepcha",
+    "date":"2007-07-02"
+  },
+  {
+    "code":"Limb",
+    "numeric":336,
+    "en":"Limbu",
+    "fr":"Limbou",
+    "pva":"Limbu",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Lina",
+    "numeric":400,
+    "en":"Linear A",
+    "fr":"Linéaire A",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Linb",
+    "numeric":401,
+    "en":"Linear B",
+    "fr":"Linéaire B",
+    "pva":"Linear_B",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Lisu",
+    "numeric":399,
+    "en":"Lisu (Fraser)",
+    "fr":"Lisu (Fraser)",
+    "pva":"Lisu",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Loma",
+    "numeric":437,
+    "en":"Loma",
+    "fr":"Loma",
+    "pva":"",
+    "date":"2010-03-26"
+  },
+  {
+    "code":"Lyci",
+    "numeric":202,
+    "en":"Lycian",
+    "fr":"Lycien",
+    "pva":"Lycian",
+    "date":"2007-07-02"
+  },
+  {
+    "code":"Lydi",
+    "numeric":116,
+    "en":"Lydian",
+    "fr":"Lydien",
+    "pva":"Lydian",
+    "date":"2007-07-02"
+  },
+  {
+    "code":"Mahj",
+    "numeric":314,
+    "en":"Mahajani",
+    "fr":"Mahâjanî",
+    "pva":"",
+    "date":"2012-10-16"
+  },
+  {
+    "code":"Mand",
+    "numeric":140,
+    "en":"Mandaic, Mandaean",
+    "fr":"Mandéen",
+    "pva":"Mandaic",
+    "date":"2010-07-23"
+  },
+  {
+    "code":"Mani",
+    "numeric":139,
+    "en":"Manichaean",
+    "fr":"Manichéen",
+    "pva":"",
+    "date":"2007-07-15"
+  },
+  {
+    "code":"Maya",
+    "numeric":090,
+    "en":"Mayan hieroglyphs",
+    "fr":"Hiéroglyphes mayas",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Mend",
+    "numeric":438,
+    "en":"Mende Kikakui",
+    "fr":"Mendé kikakui",
+    "pva":"",
+    "date":"2013-10-12"
+  },
+  {
+    "code":"Merc",
+    "numeric":101,
+    "en":"Meroitic Cursive",
+    "fr":"Cursif méroïtique",
+    "pva":"Meroitic_Cursive",
+    "date":"2012-02-06"
+  },
+  {
+    "code":"Mero",
+    "numeric":100,
+    "en":"Meroitic Hieroglyphs",
+    "fr":"Hiéroglyphes méroïtiques",
+    "pva":"Meroitic_Hieroglyphs",
+    "date":"2012-02-06"
+  },
+  {
+    "code":"Mlym",
+    "numeric":347,
+    "en":"Malayalam",
+    "fr":"Malayâlam",
+    "pva":"Malayalam",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Modi",
+    "numeric":323,
+    "en":"Modi, Moḍī",
+    "fr":"Modî",
+    "pva":"",
+    "date":"2013-10-12"
+  },
+  {
+    "code":"Mong",
+    "numeric":145,
+    "en":"Mongolian",
+    "fr":"Mongol",
+    "pva":"Mongolian",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Moon",
+    "numeric":218,
+    "en":"Moon (Moon code, Moon script, Moon type)",
+    "fr":"Écriture Moon",
+    "pva":"",
+    "date":"2006-12-11"
+  },
+  {
+    "code":"Mroo",
+    "numeric":199,
+    "en":"Mro, Mru",
+    "fr":"Mro",
+    "pva":"",
+    "date":"2010-12-21"
+  },
+  {
+    "code":"Mtei",
+    "numeric":337,
+    "en":"Meitei Mayek (Meithei, Meetei)",
+    "fr":"Meitei mayek",
+    "pva":"Meetei_Mayek",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Mult",
+    "numeric":323,
+    "en":" Multani",
+    "fr":"Multanî",
+    "pva":"",
+    "date":"2012-11-01"
+  },
+  {
+    "code":"Mymr",
+    "numeric":350,
+    "en":"Myanmar (Burmese)",
+    "fr":"Birman",
+    "pva":"Myanmar",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Narb",
+    "numeric":106,
+    "en":"Old North Arabian (Ancient North Arabian)",
+    "fr":"Nord-arabique",
+    "pva":"",
+    "date":"2010-03-26"
+  },
+  {
+    "code":"Nbat",
+    "numeric":159,
+    "en":"Nabataean",
+    "fr":"Nabatéen",
+    "pva":"",
+    "date":"2010-03-26"
+  },
+  {
+    "code":"Nkgb",
+    "numeric":420,
+    "en":"Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)",
+    "fr":"Nakhi géba",
+    "pva":"",
+    "date":"2009-02-23"
+  },
+  {
+    "code":"Nkoo",
+    "numeric":165,
+    "en":"N’Ko",
+    "fr":"N’ko",
+    "pva":"Nko",
+    "date":"2006-10-10"
+  },
+  {
+    "code":"Nshu",
+    "numeric":499,
+    "en":"Nüshu",
+    "fr":"Nüshu",
+    "pva":"",
+    "date":"2010-12-21"
+  },
+  {
+    "code":"Ogam",
+    "numeric":212,
+    "en":"Ogham",
+    "fr":"Ogam",
+    "pva":"Ogham",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Olck",
+    "numeric":261,
+    "en":"Ol Chiki (Ol Cemet’, Ol, Santali)",
+    "fr":"Ol tchiki",
+    "pva":"Ol_Chiki",
+    "date":"2007-07-02"
+  },
+  {
+    "code":"Orkh",
+    "numeric":175,
+    "en":"Old Turkic, Orkhon Runic",
+    "fr":"Orkhon",
+    "pva":"Old_Turkic",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Orya",
+    "numeric":327,
+    "en":"Oriya",
+    "fr":"Oriyâ",
+    "pva":"Oriya",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Osma",
+    "numeric":260,
+    "en":"Osmanya",
+    "fr":"Osmanais",
+    "pva":"Osmanya",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Palm",
+    "numeric":126,
+    "en":"Palmyrene",
+    "fr":"Palmyrénien",
+    "pva":"",
+    "date":"2010-03-26"
+  },
+  {
+    "code":"Pauc",
+    "numeric":263,
+    "en":"Pau Cin Hau",
+    "fr":"Paou chin haou",
+    "pva":"",
+    "date":"2013-10-12"
+  },
+  {
+    "code":"Perm",
+    "numeric":227,
+    "en":"Old Permic",
+    "fr":"Ancien permien",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Phag",
+    "numeric":331,
+    "en":"Phags-pa",
+    "fr":"’phags pa",
+    "pva":"Phags_Pa",
+    "date":"2006-10-10"
+  },
+  {
+    "code":"Phli",
+    "numeric":131,
+    "en":"Inscriptional Pahlavi",
+    "fr":"Pehlevi des inscriptions",
+    "pva":"Inscriptional_Pahlavi",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Phlp",
+    "numeric":132,
+    "en":"Psalter Pahlavi",
+    "fr":"Pehlevi des psautiers",
+    "pva":"",
+    "date":"2007-11-26"
+  },
+  {
+    "code":"Phlv",
+    "numeric":133,
+    "en":"Book Pahlavi",
+    "fr":"Pehlevi des livres",
+    "pva":"",
+    "date":"2007-07-15"
+  },
+  {
+    "code":"Phnx",
+    "numeric":115,
+    "en":"Phoenician",
+    "fr":"Phénicien",
+    "pva":"Phoenician",
+    "date":"2006-10-10"
+  },
+  {
+    "code":"Plrd",
+    "numeric":282,
+    "en":"Miao (Pollard)",
+    "fr":"Miao (Pollard)",
+    "pva":"Miao",
+    "date":"2012-02-06"
+  },
+  {
+    "code":"Prti",
+    "numeric":130,
+    "en":"Inscriptional Parthian",
+    "fr":"Parthe des inscriptions",
+    "pva":"Inscriptional_Parthian",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Qaaa",
+    "numeric":900,
+    "en":"Reserved for private use (start)",
+    "fr":"Réservé à l’usage privé (début)",
+    "pva":"",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Qabx",
+    "numeric":949,
+    "en":"Reserved for private use (end)",
+    "fr":"Réservé à l’usage privé (fin)",
+    "pva":"",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Rjng",
+    "numeric":363,
+    "en":"Rejang (Redjang, Kaganga)",
+    "fr":"Redjang (kaganga)",
+    "pva":"Rejang",
+    "date":"2009-02-23"
+  },
+  {
+    "code":"Roro",
+    "numeric":620,
+    "en":"Rongorongo",
+    "fr":"Rongorongo",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Runr",
+    "numeric":211,
+    "en":"Runic",
+    "fr":"Runique",
+    "pva":"Runic",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Samr",
+    "numeric":123,
+    "en":"Samaritan",
+    "fr":"Samaritain",
+    "pva":"Samaritan",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Sara",
+    "numeric":292,
+    "en":"Sarati",
+    "fr":"Sarati",
+    "pva":"",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Sarb",
+    "numeric":105,
+    "en":"Old South Arabian",
+    "fr":"Sud-arabique, himyarite",
+    "pva":"Old_South_Arabian",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Saur",
+    "numeric":344,
+    "en":"Saurashtra",
+    "fr":"Saurachtra",
+    "pva":"Saurashtra",
+    "date":"2007-07-02"
+  },
+  {
+    "code":"Sgnw",
+    "numeric":095,
+    "en":"SignWriting",
+    "fr":"SignÉcriture, SignWriting",
+    "pva":"",
+    "date":"2006-10-10"
+  },
+  {
+    "code":"Shaw",
+    "numeric":281,
+    "en":"Shavian (Shaw)",
+    "fr":"Shavien (Shaw)",
+    "pva":"Shavian",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Shrd",
+    "numeric":319,
+    "en":"Sharada, Śāradā",
+    "fr":"Charada, shard",
+    "pva":"Sharada",
+    "date":"2012-02-06"
+  },
+  {
+    "code":"Sidd",
+    "numeric":302,
+    "en":"Siddham, Siddhaṃ, Siddhamātṛkā",
+    "fr":"Siddham",
+    "pva":"",
+    "date":"2013-10-12"
+  },
+  {
+    "code":"Sind",
+    "numeric":318,
+    "en":"Khudawadi, Sindhi",
+    "fr":"Khoudawadî, sindhî",
+    "pva":"",
+    "date":"2010-12-21"
+  },
+  {
+    "code":"Sinh",
+    "numeric":348,
+    "en":"Sinhala",
+    "fr":"Singhalais",
+    "pva":"Sinhala",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Sora",
+    "numeric":398,
+    "en":"Sora Sompeng",
+    "fr":"Sora sompeng",
+    "pva":"Sora_Sompeng",
+    "date":"2012-02-06"
+  },
+  {
+    "code":"Sund",
+    "numeric":362,
+    "en":"Sundanese",
+    "fr":"Sundanais",
+    "pva":"Sundanese",
+    "date":"2007-07-02"
+  },
+  {
+    "code":"Sylo",
+    "numeric":316,
+    "en":"Syloti Nagri",
+    "fr":"Sylotî nâgrî",
+    "pva":"Syloti_Nagri",
+    "date":"2006-06-21"
+  },
+  {
+    "code":"Syrc",
+    "numeric":135,
+    "en":"Syriac",
+    "fr":"Syriaque",
+    "pva":"Syriac",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Syre",
+    "numeric":138,
+    "en":"Syriac (Estrangelo variant)",
+    "fr":"Syriaque (variante estranghélo)",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Syrj",
+    "numeric":137,
+    "en":"Syriac (Western variant)",
+    "fr":"Syriaque (variante occidentale)",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Syrn",
+    "numeric":136,
+    "en":"Syriac (Eastern variant)",
+    "fr":"Syriaque (variante orientale)",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Tagb",
+    "numeric":373,
+    "en":"Tagbanwa",
+    "fr":"Tagbanoua",
+    "pva":"Tagbanwa",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Takr",
+    "numeric":321,
+    "en":"Takri, Ṭākrī, Ṭāṅkrī",
+    "fr":"Tâkrî",
+    "pva":"Takri",
+    "date":"2012-02-06"
+  },
+  {
+    "code":"Tale",
+    "numeric":353,
+    "en":"Tai Le",
+    "fr":"Taï-le",
+    "pva":"Tai_Le",
+    "date":"2004-10-25"
+  },
+  {
+    "code":"Talu",
+    "numeric":354,
+    "en":"New Tai Lue",
+    "fr":"Nouveau taï-lue",
+    "pva":"New_Tai_Lue",
+    "date":"2006-06-21"
+  },
+  {
+    "code":"Taml",
+    "numeric":346,
+    "en":"Tamil",
+    "fr":"Tamoul",
+    "pva":"Tamil",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Tang",
+    "numeric":520,
+    "en":"Tangut",
+    "fr":"Tangoute",
+    "pva":"",
+    "date":"2010-12-21"
+  },
+  {
+    "code":"Tavt",
+    "numeric":359,
+    "en":"Tai Viet",
+    "fr":"Taï viêt",
+    "pva":"Tai_Viet",
+    "date":"2009-06-01"
+  },
+  {
+    "code":"Telu",
+    "numeric":340,
+    "en":"Telugu",
+    "fr":"Télougou",
+    "pva":"Telugu",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Teng",
+    "numeric":290,
+    "en":"Tengwar",
+    "fr":"Tengwar",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Tfng",
+    "numeric":120,
+    "en":"Tifinagh (Berber)",
+    "fr":"Tifinagh (berbère)",
+    "pva":"Tifinagh",
+    "date":"2006-06-21"
+  },
+  {
+    "code":"Tglg",
+    "numeric":370,
+    "en":"Tagalog (Baybayin, Alibata)",
+    "fr":"Tagal (baybayin, alibata)",
+    "pva":"Tagalog",
+    "date":"2009-02-23"
+  },
+  {
+    "code":"Thaa",
+    "numeric":170,
+    "en":"Thaana",
+    "fr":"Thâna",
+    "pva":"Thaana",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Thai",
+    "numeric":352,
+    "en":"Thai",
+    "fr":"Thaï",
+    "pva":"Thai",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Tibt",
+    "numeric":330,
+    "en":"Tibetan",
+    "fr":"Tibétain",
+    "pva":"Tibetan",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Tirh",
+    "numeric":326,
+    "en":"Tirhuta",
+    "fr":"Tirhouta",
+    "pva":"",
+    "date":"2011-12-09"
+  },
+  {
+    "code":"Ugar",
+    "numeric":040,
+    "en":"Ugaritic",
+    "fr":"Ougaritique",
+    "pva":"Ugaritic",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Vaii",
+    "numeric":470,
+    "en":"Vai",
+    "fr":"Vaï",
+    "pva":"Vai",
+    "date":"2007-07-02"
+  },
+  {
+    "code":"Visp",
+    "numeric":280,
+    "en":"Visible Speech",
+    "fr":"Parole visible",
+    "pva":"",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Wara",
+    "numeric":262,
+    "en":"Warang Citi (Varang Kshiti)",
+    "fr":"Warang citi",
+    "pva":"",
+    "date":"2009-11-11"
+  },
+  {
+    "code":"Wole",
+    "numeric":480,
+    "en":"Woleai",
+    "fr":"Woléaï",
+    "pva":"",
+    "date":"2010-12-21"
+  },
+  {
+    "code":"Xpeo",
+    "numeric":030,
+    "en":"Old Persian",
+    "fr":"Cunéiforme persépolitain",
+    "pva":"Old_Persian",
+    "date":"2006-06-21"
+  },
+  {
+    "code":"Xsux",
+    "numeric":020,
+    "en":"Cuneiform, Sumero-Akkadian",
+    "fr":"Cunéiforme suméro-akkadien",
+    "pva":"Cuneiform",
+    "date":"2006-10-10"
+  },
+  {
+    "code":"Yiii",
+    "numeric":460,
+    "en":"Yi",
+    "fr":"Yi",
+    "pva":"Yi",
+    "date":"2004-05-01"
+  },
+  {
+    "code":"Zinh",
+    "numeric":994,
+    "en":"Code for inherited script",
+    "fr":"Codet pour écriture héritée",
+    "pva":"Inherited",
+    "date":"2009-02-23"
+  },
+  {
+    "code":"Zmth",
+    "numeric":995,
+    "en":"Mathematical notation",
+    "fr":"Notation mathématique",
+    "pva":"",
+    "date":"2007-11-26"
+  },
+  {
+    "code":"Zsym",
+    "numeric":996,
+    "en":"Symbols",
+    "fr":"Symboles",
+    "pva":"",
+    "date":"2007-11-26"
+  },
+  {
+    "code":"Zxxx",
+    "numeric":997,
+    "en":"Code for unwritten documents",
+    "fr":"Codet pour les documents non écrits",
+    "pva":"",
+    "date":"2011-06-21"
+  },
+  {
+    "code":"Zyyy",
+    "numeric":998,
+    "en":"Code for undetermined script",
+    "fr":"Codet pour écriture indéterminée",
+    "pva":"Common",
+    "date":"2004-05-29"
+  },
+  {
+    "code":"Zzzz",
+    "numeric":999,
+    "en":"Code for uncoded script",
+    "fr":"Codet pour écriture non codée",
+    "pva":"Unknown",
+    "date":"2006-10-10"
+  }
+]
